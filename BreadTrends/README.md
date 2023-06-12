@@ -14,11 +14,11 @@
 ### 결과
 
 - 2014년 베이커리 언급 수
-  [label](blob:vscode-webview%3A//1dsdp45fm39djv29p1l9cbdbmsd45l6379tn52i7ri7su1o2lv6q/a04cb849-5985-4783-b9a0-3022dd45c120)
+  ![label](blob:vscode-webview%3A//1dsdp45fm39djv29p1l9cbdbmsd45l6379tn52i7ri7su1o2lv6q/a04cb849-5985-4783-b9a0-3022dd45c120)
 - 2020년 베이커리 언급 수
-  [label](blob:vscode-webview%3A//1dsdp45fm39djv29p1l9cbdbmsd45l6379tn52i7ri7su1o2lv6q/0ce54d5d-5c4c-4038-ac5d-1de1e285b1ab)
+  ![label](blob:vscode-webview%3A//1dsdp45fm39djv29p1l9cbdbmsd45l6379tn52i7ri7su1o2lv6q/0ce54d5d-5c4c-4038-ac5d-1de1e285b1ab)
 
 - 2014년 서울 TOP20 베이커리 분포
-  [img](/data/2014.png)
+  ![img](/data/2014.png)
 - 2020년 서울 TOP20 베이커리 분포
-  [img](/data/2020.png)
+  ![img](/data/2020.png)
