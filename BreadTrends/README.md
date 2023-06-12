@@ -14,11 +14,11 @@
 ### 결과
 
 - 2014년 베이커리 언급 수
-  ![img](/image/2014_bakery.png)
+  ![img](image/2014_bakery.png)
 - 2020년 베이커리 언급 수
-  ![img](/image/2020_bakery.png)
+  ![img](image/2020_bakery.png)
 
 - 2014년 서울 TOP20 베이커리 분포
-  ![img](/image/2014.png)
+  ![img](image/2014.png)
 - 2020년 서울 TOP20 베이커리 분포
-  ![img](/image/2020.png)
+  ![img](image/2020.png)
